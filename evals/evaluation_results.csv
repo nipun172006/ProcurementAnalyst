@@ -1,0 +1,13 @@
+case_id,architecture,correct_next_action,grounded_evidence,policy_followed,human_escalation_correct,latency_ms,llm_calls,tool_calls,notes
+PUB-01,single,True,True,True,True,1258.5,1,5,Review existing option before purchase
+PUB-02,single,True,True,True,True,1398.2,1,5,Route for required specialist reviews
+PUB-03,single,True,True,True,True,1471.6,1,5,Route for required specialist reviews
+PUB-04,single,True,True,True,True,1576.0,1,5,Route for required specialist reviews
+PUB-05,single,True,True,True,True,1475.9,1,5,Needs clarification before review
+PUB-06,single,True,True,True,True,2010.5,1,5,Route for required specialist reviews
+PUB-01,staged,True,True,True,True,2766.6,2,5,Review existing option before purchase
+PUB-02,staged,True,True,True,True,2890.4,2,5,Route for required specialist reviews
+PUB-03,staged,True,True,True,True,2579.7,2,5,Route for required specialist reviews
+PUB-04,staged,True,True,True,True,2724.3,2,5,Route for required specialist reviews
+PUB-05,staged,True,True,True,True,542.3,1,5,Needs clarification before review
+PUB-06,staged,True,True,True,True,706.0,1,5,Hold pending evidence verification
